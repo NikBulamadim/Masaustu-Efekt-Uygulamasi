@@ -31,8 +31,9 @@ Uygulama Özellikleri
 
 *Önemli Not
 
-Erişim Kısıtlaması: Uygulama tam ekran modundayken ekranı şeffaf bir katman olarak kapladığı için, açık olduğu süre boyunca farenin alt katmandaki masaüstü simgelerine veya pencerelere erişimi 
-kısıtlanır. Bu bir "izleme modu" (overlay) deneyimi sunar.
+Erişim Kısıtlaması: Uygulama tam ekran modundayken ekranı şeffaf bir katman olarak kapladığı için, açık olduğu süre boyunca  masaüstü simgelerine veya pencereleri tıklanamaz . Çünkü bir pencere açık bu pencere siyah yada herhangibir renk yerine şeffaftır . Bu bir "izleme modu" (overlay) deneyimi sunar.
+
+
 ------------------------------------------------------------------------------------------------------
 
 Bağımlılıklar ve Kurulum
