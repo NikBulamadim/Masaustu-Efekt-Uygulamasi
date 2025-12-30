@@ -1,7 +1,6 @@
 ### Uygulama Görüntüsü
 
-![Proje Demo](https://raw.githubusercontent.com/NikBulamadim/Masaustu-Efekt-Uygulamasi/main/1.gif)
-
+<img src="https://raw.githubusercontent.com/NikBulamadim/Masaustu-Efekt-Uygulamasi/main/1.gif" alt="Proje Demo" width="800"/>
 Masaüstü Parçacık Animasyon Sistemi
 
 Bu proje, Python ve PyQt5 kullanılarak geliştirilmiş, masaüstünü kaplayan şeffaf bir katman üzerinde temel geometrik şekillerin hareketini sergileyen minimalist bir çalışmadır.
