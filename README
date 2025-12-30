@@ -1,23 +1,30 @@
+![Proje Tanıtımı](1.gif)
+
 Masaüstü Parçacık Animasyon Sistemi
+
 Bu proje, Python ve PyQt5 kullanılarak geliştirilmiş, masaüstünü kaplayan şeffaf bir katman üzerinde temel geometrik şekillerin hareketini sergileyen minimalist bir çalışmadır.
 
+-------------------------------------------------------------------------
+
 Uygulama Özellikleri
-Geometrik Parçacık Hareketleri: Nokta, çizgi ve elips gibi basit formların hız, yön ve opaklık parametreleriyle simüle edildiği bir sistemdir.
 
-Tam Ekran Görsel Katman: Uygulama şeffaf bir arayüzle tüm ekranı kaplar; bu sayede masaüstü üzerinde hareketli bir görsel katman oluşturur.
+*Geometrik Parçacık Hareketleri: Nokta, çizgi ve elips gibi basit formların hız, yön ve opaklık parametreleriyle simüle edildiği bir sistemdir.
 
-İnteraktif Kontrol: Klavyedeki 1-9 tuşları ile parçacık modları arasında geçiş yapılabilir, Esc ile pencere modu değiştirilebilir.
+T*am Ekran Görsel Katman: Uygulama şeffaf bir arayüzle tüm ekranı kaplar; bu sayede masaüstü üzerinde hareketli bir görsel katman oluşturur.
 
-Matematiksel Animasyon: Parçacıkların serbest düşüşü, salınımı ve dönüşleri matematiksel fonksiyonlarla hesaplanır.
+*İnteraktif Kontrol: Klavyedeki 1-9 tuşları ile parçacık modları arasında geçiş yapılabilir, Esc ile pencere modu değiştirilebilir.
 
-Kaynak Dostu Yapı: Karmaşık grafik kütüphaneleri yerine standart QPainter çizim yöntemleri kullanılır.
+*Matematiksel Animasyon: Parçacıkların serbest düşüşü, salınımı ve dönüşleri matematiksel fonksiyonlarla hesaplanır.
 
-Hızlı Çıkış: Q tuşu ile uygulama anında sonlandırılabilir.
+*Kaynak Dostu Yapı: Karmaşık grafik kütüphaneleri yerine standart QPainter çizim yöntemleri kullanılır.
+
+*Hızlı Çıkış: Q tuşu ile uygulama anında sonlandırılabilir.
 
 Önemli Not
 Erişim Kısıtlaması: Uygulama tam ekran modundayken ekranı şeffaf bir katman olarak kapladığı için, açık olduğu süre boyunca farenin alt katmandaki masaüstü simgelerine veya pencerelere erişimi kısıtlanır. Bu bir "izleme modu" (overlay) deneyimi sunar.
 -------------------------------------------------------------------------
 Bağımlılıklar ve Kurulum
+
 Uygulamanın çalışması için sisteminizde Python 3 ve PyQt5 kütüphanesinin yüklü olması gerekir.
 
 1. Kütüphanelerin Yüklenmesi
