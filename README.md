@@ -1,1 +1,3 @@
-<img src="dresim.gif" width="400">
+<p align="center">
+  <img src="resim.gif" width="350" title="Uygulama Önizleme">
+</p>
